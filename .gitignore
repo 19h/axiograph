@@ -1,0 +1,9 @@
+/target
+/axioms.dot
+/axioms.summary.txt
+/axioms.svg
+/axioms.txt
+/es/
+.DS_Store
+.idea/
+.vscode/

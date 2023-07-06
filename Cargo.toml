@@ -1,0 +1,18 @@
+[package]
+name = "axiograph"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+async-recursion = "1.0.4"
+chrono = "0.4.26"
+clap = { version = "4.3.10", features = ["derive", "env"] }
+colored = "2.0.4"
+evilcorp_secondpilot = "2.3.0"
+futures = "0.3.28"
+rand = "0.8.5"
+serde = { version = "1.0.166", features = ["derive"] }
+serde_json = "1.0.99"
+tokio = { version = "1.29.1", features = ["rt-multi-thread", "macros"] }

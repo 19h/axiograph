@@ -1,0 +1,11 @@
+I want you to write three connected and related and semantically relevant axioms to the axiom: "The banana is curved."
+
+You must respond with nothing but syntactically correct JSON matching the format of the following example:
+
+Example:
+
+[
+      "The invasion was based on the belief that Iraq possessed weapons of mass destruction.",
+      "The invasion was controversial and sparked widespread protests and opposition.",
+      "The invasion led to the overthrow of Saddam Hussein's regime."
+]
