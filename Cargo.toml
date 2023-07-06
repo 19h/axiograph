@@ -2,6 +2,8 @@
 name = "axiograph"
 version = "0.1.0"
 edition = "2021"
+description = "A Rust program that visualizes the structure of complex axioms using GPT-4. Give it an axiom and a \"depth\", and it will generate a summary based on all established sub-axioms and a graph using graphviz. Explore the relationships between axioms and gain new insights with ease."
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
